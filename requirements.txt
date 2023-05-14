@@ -9,3 +9,4 @@ pypdf2
 unstructured
 tabulate
 pdf2image
+pytesseract
