@@ -10,3 +10,4 @@ unstructured
 tabulate
 pdf2image
 pytesseract
+poppler
