@@ -7,3 +7,4 @@ streamlit-chat
 pdfminer
 pypdf2
 unstructured
+tabulate
