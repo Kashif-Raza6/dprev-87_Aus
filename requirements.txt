@@ -8,3 +8,4 @@ pdfminer
 pypdf2
 unstructured
 tabulate
+pdf2image
